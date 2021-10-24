@@ -1,0 +1,43 @@
+[
+  {
+    "id":1,
+    "name": "John Honayi",
+    "type": "Villa",
+    "price": 12000
+  },
+
+  {
+    "id":2,
+    "name": "joe",
+    "type": "Villa",
+    "price": 12000
+  },
+
+  {
+    "id":3,
+    "name": "max",
+    "type": "Villa",
+    "price": 12000
+  },
+
+  {
+    "id":4,
+    "name": "eleven",
+    "type": "Villa",
+    "price": 12000
+  },
+
+  {
+    "id":5,
+    "name": "Jim",
+    "type": "Villa",
+    "price": 12000
+  },
+
+  {
+    "id":6,
+    "name": "Arun",
+    "type": "Villa",
+    "price": 12000
+  }
+]
